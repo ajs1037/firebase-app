@@ -1,8 +1,23 @@
 # firebase-app
 
-Firebase is a mobile platform that helps you quickly develop high-quality apps
+Firebase is a mobile and web application development platform made up of complementary features that developers can mix-and-match to fit their needs. Firebase's initial product was a realtime database, which provides an API that allows developers to store and sync data across multiple clients. Over time, it has expanded its product line to become a full suite for app development. The company was 
+acquired by Google in October 2014 and a significant number of new features were featured in May 2016 at Google I/O.
 
-## Part 2.1
+### Example features:
+* Firebase Analytics
+* Firebase Cloud Messaging
+* Firebase Auth
+* Realtime Database
+* Firebase Storage
+* Firebase Hosting
+* Firebase Test Lab for Android
+* Firebase Crash Reporting
+* and much more....
+
+
+### Below I walk you through real world scenarios and breifly explain how I would solve them.
+
+###### Part 2.1
 
 #### Learning Objectives:
 * Firebase
@@ -45,7 +60,7 @@ Firebase is a mobile platform that helps you quickly develop high-quality apps
 #### In /scripts:
 * Make init.js file. Copy code in from firebase. This will add Firebase to your web app and initialize firebase JavaScript API
 
-## Part 2.2
+###### Part 2.2
 
 Firebase Authentication
 
@@ -63,7 +78,7 @@ Firebase Authentication
 
       This will make server listen at localhost:5000
 
-## Part 2.3
+###### Part 2.3
 
 Using Firebase Internal API’s storage
 
@@ -79,7 +94,7 @@ Using Firebase Internal API’s storage
 * I am able to access the remote firebase database
 
 
-## Part 2.4
+###### Part 2.4
 
 Using Firebase Internal API’s Database
 
