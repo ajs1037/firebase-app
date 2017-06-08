@@ -15,7 +15,7 @@ acquired by Google in October 2014 and a significant number of new features were
 * and much more....
 
 
-### Below I walk you through real world scenarios and breifly explain how I would solve them.
+### Below I walk you through real world scenarios and briefly explain how I would solve them.
 
 ###### Part 2.1
 
